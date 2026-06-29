@@ -1,0 +1,18 @@
+[
+    {
+        "model": "Random Forest",
+        "precision_churn": 0.5057471264367817,
+        "recall_churn": 0.6929133858267716,
+        "f1_churn": 0.584717607973422,
+        "accuracy": 0.75,
+        "roc_auc": 0.7851216989297248
+    },
+    {
+        "model": "Gradient Boosting",
+        "precision_churn": 0.5789473684210527,
+        "recall_churn": 0.3464566929133858,
+        "f1_churn": 0.43349753694581283,
+        "accuracy": 0.77,
+        "roc_auc": 0.7861349770956916
+    }
+]
